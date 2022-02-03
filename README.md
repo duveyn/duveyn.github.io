@@ -1,2 +1,2 @@
-# duveyn.github.io
+# Dmitrii Konkov
 my firs site
